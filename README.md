@@ -27,7 +27,7 @@ Hands-on Laboratory exercises on 8085 and AVR boards for "Microprocessors Labora
 
 ### Lab 4: Combining sensory data from temperature sources
 
-1. Display environment's temperature on `LEDS` `
+1. Display environment's temperature on `LEDS`
 2. Display environment's temperature on `LCD` screen 
 
 ### Lab 5: Serial communication and Analog to Digital Convertion 
